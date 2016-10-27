@@ -5,6 +5,7 @@ Zimbra bits it's a repository with all the Zimbra Collaboration Releases direct 
 Original links can be found here:
  - https://www.zimbra.com/downloads/zimbra-collaboration-open-source/
  - https://www.zimbra.com/downloads/zimbra-collaboration/
+
 # Zimbra Collaboration 8.7.1 GA 1670
 ## Community Edition
  - https://files.zimbra.com/downloads/8.7.1_GA/zcs-NETWORK-8.7.1_GA_1670.RHEL6_64.20161025035121.tgz
