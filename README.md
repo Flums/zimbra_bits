@@ -6,6 +6,44 @@ Original links can be found here:
  - https://www.zimbra.com/downloads/zimbra-collaboration-open-source/
  - https://www.zimbra.com/downloads/zimbra-collaboration/
 
+# Zimbra Collaboration 8.7.5 GA 1764
+## Community Edition
+ - https://files.zimbra.com/downloads/8.7.5_GA/zcs-8.7.5_GA_1764.RHEL6_64.20170314032533.tgz
+ - https://files.zimbra.com/downloads/8.7.5_GA/zcs-8.7.5_GA_1764.RHEL6_64.20170314032533.tgz.md5
+ - https://files.zimbra.com/downloads/8.7.5_GA/zcs-8.7.5_GA_1764.RHEL6_64.20170314032533.tgz.sha256
+ - https://files.zimbra.com/downloads/8.7.5_GA/zcs-8.7.5_GA_1764.RHEL7_64.20170314032533.tgz
+ - https://files.zimbra.com/downloads/8.7.5_GA/zcs-8.7.5_GA_1764.RHEL7_64.20170314032533.tgz.md5
+ - https://files.zimbra.com/downloads/8.7.5_GA/zcs-8.7.5_GA_1764.RHEL7_64.20170314032533.tgz.sha256
+ - https://files.zimbra.com/downloads/8.7.5_GA/zcs-8.7.5_GA_1764.UBUNTU12_64.20170314032533.tgz
+ - https://files.zimbra.com/downloads/8.7.5_GA/zcs-8.7.5_GA_1764.UBUNTU12_64.20170314032533.tgz.md5
+ - https://files.zimbra.com/downloads/8.7.5_GA/zcs-8.7.5_GA_1764.UBUNTU12_64.20170314032533.tgz.sha256
+ - https://files.zimbra.com/downloads/8.7.5_GA/zcs-8.7.5_GA_1764.UBUNTU14_64.20170314032533.tgz
+ - https://files.zimbra.com/downloads/8.7.5_GA/zcs-8.7.5_GA_1764.UBUNTU14_64.20170314032533.tgz.md5
+ - https://files.zimbra.com/downloads/8.7.5_GA/zcs-8.7.5_GA_1764.UBUNTU14_64.20170314032533.tgz.sha256
+ - https://files.zimbra.com/downloads/8.7.5_GA/zcs-8.7.5_GA_1764.UBUNTU16_64.20170314032533.tgz
+ - https://files.zimbra.com/downloads/8.7.5_GA/zcs-8.7.5_GA_1764.UBUNTU16_64.20170314032533.tgz.md5
+ - https://files.zimbra.com/downloads/8.7.5_GA/zcs-8.7.5_GA_1764.UBUNTU16_64.20170314032533.tgz.sha256
+
+
+# Zimbra Collaboration 8.7.5 GA 1764
+## Network Edition
+ - https://files.zimbra.com/downloads/8.7.5_GA/zcs-NETWORK-8.7.5_GA_1764.RHEL6_64.20170314032533.tgz
+ - https://files.zimbra.com/downloads/8.7.5_GA/zcs-NETWORK-8.7.5_GA_1764.RHEL6_64.20170314032533.tgz.md5
+ - https://files.zimbra.com/downloads/8.7.5_GA/zcs-NETWORK-8.7.5_GA_1764.RHEL6_64.20170314032533.tgz.sha256
+ - https://files.zimbra.com/downloads/8.7.5_GA/zcs-NETWORK-8.7.5_GA_1764.RHEL7_64.20170314032533.tgz
+ - https://files.zimbra.com/downloads/8.7.5_GA/zcs-NETWORK-8.7.5_GA_1764.RHEL7_64.20170314032533.tgz.md5
+ - https://files.zimbra.com/downloads/8.7.5_GA/zcs-NETWORK-8.7.5_GA_1764.RHEL7_64.20170314032533.tgz.sha256
+ - https://files.zimbra.com/downloads/8.7.5_GA/zcs-NETWORK-8.7.5_GA_1764.UBUNTU12_64.20170314032533.tgz
+ - https://files.zimbra.com/downloads/8.7.5_GA/zcs-NETWORK-8.7.5_GA_1764.UBUNTU12_64.20170314032533.tgz.md5
+ - https://files.zimbra.com/downloads/8.7.5_GA/zcs-NETWORK-8.7.5_GA_1764.UBUNTU12_64.20170314032533.tgz.sha256
+ - https://files.zimbra.com/downloads/8.7.5_GA/zcs-NETWORK-8.7.5_GA_1764.UBUNTU14_64.20170314032533.tgz
+ - https://files.zimbra.com/downloads/8.7.5_GA/zcs-NETWORK-8.7.5_GA_1764.UBUNTU14_64.20170314032533.tgz.md5
+ - https://files.zimbra.com/downloads/8.7.5_GA/zcs-NETWORK-8.7.5_GA_1764.UBUNTU14_64.20170314032533.tgz.sha256
+ - https://files.zimbra.com/downloads/8.7.5_GA/zcs-NETWORK-8.7.5_GA_1764.UBUNTU16_64.20170314032533.tgz
+ - https://files.zimbra.com/downloads/8.7.5_GA/zcs-NETWORK-8.7.5_GA_1764.UBUNTU16_64.20170314032533.tgz.md5
+ - https://files.zimbra.com/downloads/8.7.5_GA/zcs-NETWORK-8.7.5_GA_1764.UBUNTU16_64.20170314032533.tgz.sha256
+
+
 # Zimbra Collaboration 8.7.4 GA 1730
 ## Community Edition
  - https://files.zimbra.com/downloads/8.7.4_GA/zcs-8.7.4_GA_1730.RHEL6_64.20170227060845.tgz
