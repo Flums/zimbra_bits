@@ -8,16 +8,15 @@ Original links can be found here:
 
 # Zimbra Collaboration 8.8.4 RELEASE CANDIDATE 2 GA 1877
 ## Community Edition 
-
-https://files.zimbra.com/downloads/8.8.4_GA/zcs-8.8.4_GA_1877.UBUNTU14_64.20170907123951.tgz
-https://files.zimbra.com/downloads/8.8.4_GA/zcs-8.8.4_GA_1877.UBUNTU14_64.20170907123951.tgz.md5
-https://files.zimbra.com/downloads/8.8.4_GA/zcs-8.8.4_GA_1877.UBUNTU14_64.20170907123951.tgz.sha256
 https://files.zimbra.com/downloads/8.8.4_GA/zcs-8.8.4_GA_1877.RHEL6_64.20170907123951.tgz
 https://files.zimbra.com/downloads/8.8.4_GA/zcs-8.8.4_GA_1877.RHEL6_64.20170907123951.tgz.md5
 https://files.zimbra.com/downloads/8.8.4_GA/zcs-8.8.4_GA_1877.RHEL6_64.20170907123951.tgz.sha256
 https://files.zimbra.com/downloads/8.8.4_GA/zcs-8.8.4_GA_1877.RHEL7_64.20170907123951.tgz
 https://files.zimbra.com/downloads/8.8.4_GA/zcs-8.8.4_GA_1877.RHEL7_64.20170907123951.tgz.md5
 https://files.zimbra.com/downloads/8.8.4_GA/zcs-8.8.4_GA_1877.RHEL7_64.20170907123951.tgz.sha256
+https://files.zimbra.com/downloads/8.8.4_GA/zcs-8.8.4_GA_1877.UBUNTU14_64.20170907123951.tgz
+https://files.zimbra.com/downloads/8.8.4_GA/zcs-8.8.4_GA_1877.UBUNTU14_64.20170907123951.tgz.md5
+https://files.zimbra.com/downloads/8.8.4_GA/zcs-8.8.4_GA_1877.UBUNTU14_64.20170907123951.tgz.sha256
 https://files.zimbra.com/downloads/8.8.4_GA/zcs-8.8.4_GA_1877.UBUNTU16_64.20170907123951.tgz
 https://files.zimbra.com/downloads/8.8.4_GA/zcs-8.8.4_GA_1877.UBUNTU16_64.20170907123951.tgz.md5
 https://files.zimbra.com/downloads/8.8.4_GA/zcs-8.8.4_GA_1877.UBUNTU16_64.20170907123951.tgz.sha256
