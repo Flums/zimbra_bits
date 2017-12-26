@@ -1,5 +1,5 @@
 # Zimbra bits 
-Zimbra bits it's a repository with all the Zimbra Collaboration Releases direct links obtained from the Zimbra website. You c an grab the bits in an easier and quick way, including .md5 and .sha256 files.
+Zimbra bits it's a repository with all the Zimbra Collaboration Releases direct links obtained from the Zimbra website. You can grab the bits in an easier and quick way, including .md5 and .sha256 files.
 
 # Original Links 
 Original links can be found here:
